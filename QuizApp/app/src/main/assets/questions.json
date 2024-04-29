@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["London", "Paris", "New York", "Berlin"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the largest ocean in the world?",
+    "options": ["Atlantic", "Arctic", "Indian", "Pacific"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": [ "Yen",
+      "Dollar",
+      "Euro",
+      "Pound"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the largest country in the world?",
+    "options": ["Russia",
+      "China",
+      "United States",
+      "Canada"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who is the author of the Harry Potter series?",
+    "options": [
+      "J.K. Rowling",
+      "Stephen King",
+      "George R.R. Martin",
+      "J.R.R. Tolkien"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who is the current President of the United States?",
+    "options": [
+      "Joe Biden",
+      "Barack Obama",
+      "Donald Trump",
+      "George W. Bush"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the largest country in the world?",
+    "options": ["Russia",
+      "China",
+      "United States",
+      "Canada"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who is the author of the Harry Potter series?",
+    "options": [
+      "J.K. Rowling",
+      "Stephen King",
+      "George R.R. Martin",
+      "J.R.R. Tolkien"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who is the current President of the United States?",
+    "options": [
+      "Joe Biden",
+      "Barack Obama",
+      "Donald Trump",
+      "George W. Bush"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the scientific name of a butterfly?",
+    "options": [
+      "Apis",
+      "Coleoptera",
+      "Formicidae",
+      "Rhopalocera"
+    ],
+    "correctAnswer": 3
+  }
+]
